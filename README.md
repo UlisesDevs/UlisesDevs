@@ -21,7 +21,8 @@ Hi, I am currently learning Python and have developed a strong interest in Kotli
 
 ### Certifications
 
-https://www.credly.com/badges/80943de1-c100-4b12-9a24-c0e1b221287a/public_url
+<a href="https://www.credly.com/badges/80943de1-c100-4b12-9a24-c0e1b221287a/public_url" target="blank"><img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="36" height="36" alt="Python Essentiasl" /></a>
+
 
 ### Socials
 
