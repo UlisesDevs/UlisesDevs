@@ -20,7 +20,7 @@ Hi, I am currently learning Python and have developed a strong interest in Kotli
 </p>
 
 ### Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="80943de1-c100-4b12-9a24-c0e1b221287a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="80943de1-c100-4b12-9a24-c0e1b221287a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>](https://www.credly.com/badges/80943de1-c100-4b12-9a24-c0e1b221287a/public_url)
 
 ### Socials
 
