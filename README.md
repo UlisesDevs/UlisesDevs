@@ -6,7 +6,7 @@ Hi 👋 My name is Ulises De La Madrid
 Programming student
 -------------------
 
-Hi, I am currently learning Python, Living in Mexico, I am passionate about expanding my programming skills and knowledge through self-study. My journey in programming is driven by curiosity and a desire to build innovative solutions. I am committed to continuous learning and eager to explore the diverse possibilities that Python offer.
+Hi, I am currently learning Java, Living in Mexico, I am passionate about expanding my programming skills and knowledge through self-study. My journey in programming is driven by curiosity and a desire to build innovative solutions. I am committed to continuous learning and eager to explore the diverse possibilities that Python offer.
 
 * 🌍  I'm based in México
 * ✉️  You can contact me at [ulisesdevs@gmail.com](mailto:ulisesdevs@gmail.com)
@@ -17,6 +17,8 @@ Hi, I am currently learning Python, Living in Mexico, I am passionate about expa
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p><p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 </p>
 
 ### Certifications
