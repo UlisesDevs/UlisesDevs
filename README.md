@@ -3,7 +3,7 @@
 Hi 👋 My name is Ulises De La Madrid
 ====================================
 
-Software development engineer studen.
+Software development engineer student.
 -------------------
 
 Hi, I am currently learning Java, Living in Mexico, I am passionate about expanding my programming skills and knowledge through self-study. My journey in programming is driven by curiosity and a desire to build innovative solutions. I am committed to continuous learning and eager to explore the diverse possibilities that Python offer.
