@@ -10,7 +10,7 @@ Hi, I am currently learning Python, Living in Mexico, I am passionate about expa
 
 * 🌍  I'm based in México
 * ✉️  You can contact me at [ulisesdevs@gmail.com](mailto:ulisesdevs@gmail.com)
-* 🧠  I'm learning Java.
+* 🧠  I'm learning Python.
 
 
 ### Learning
