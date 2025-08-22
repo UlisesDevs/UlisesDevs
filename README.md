@@ -6,11 +6,11 @@ Hi 👋 My name is Ulises De La Madrid
 Software development engineer student.
 -------------------
 
-Hi, I am currently learning Python, Living in Mexico, I am passionate about expanding my programming skills and knowledge through self-study. My journey in programming is driven by curiosity and a desire to build innovative solutions. I am committed to continuous learning and eager to explore the diverse possibilities that coding offer.
+Hi, I am currently learning Python, Living in Mexico, I am passionate about expanding my programming skills and knowledge through self-study. My journey in programming is driven by curiosity and a desire to build innovative solutions. I am committed to continuous learning and eager to explore the diverse possibilities that tech offer.
 
 * 🌍  I'm based in México
 * ✉️  You can contact me at [ulisesdevs@gmail.com](mailto:ulisesdevs@gmail.com)
-* 🧠  I'm learning Python.
+* 🧠  I'm learning to become DevOps.
 
 
 ### Learning
@@ -20,9 +20,11 @@ Hi, I am currently learning Python, Living in Mexico, I am passionate about expa
 </p>
                   
 
-### Certifications
+### Badges
 
 <a href="https://www.credly.com/badges/80943de1-c100-4b12-9a24-c0e1b221287a/public_url" target="blank"><img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="100" height="100" alt="Python Essentials" /></a>
+
+### Certifications
 
 
 ### Socials
