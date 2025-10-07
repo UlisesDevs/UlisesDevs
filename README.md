@@ -22,7 +22,6 @@ Hi, I am currently learning Java, Living in Mexico, I am passionate about expand
 
 ### Badges
 
-<a href="https://www.credly.com/badges/80943de1-c100-4b12-9a24-c0e1b221287a/public_url" target="blank"><img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="100" height="100" alt="Python Essentials" /></a>
 
 ### Certifications
 
