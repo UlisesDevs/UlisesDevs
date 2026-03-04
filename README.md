@@ -22,7 +22,7 @@ Hi, I am currently learning Python, Living in Mexico, I am passionate about expa
 
 ### Badges:
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="80943de1-c100-4b12-9a24-c0e1b221287a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/80943de1-c100-4b12-9a24-c0e1b221287a/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Git" title="Git" width="36" height="36" /></a>
 
 ### Certifications:
 
